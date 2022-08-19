@@ -1,2 +1,2 @@
 # tandon-air
-Proyek monitong untuk tandon penampungan air
+Proyek monitoring untuk tandon penampungan air
